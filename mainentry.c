@@ -1,4 +1,4 @@
 main()
 {
-printf("Hello, Github Word!");
+  printf("Hello, Github Word!");
 }
