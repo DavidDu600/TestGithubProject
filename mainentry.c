@@ -11,7 +11,7 @@ main()
 
   float add(float x, float y)
   {
-	  return x + y;
+	  return (x + y)*1;
   }
   int sub(int x, int y)
   {
