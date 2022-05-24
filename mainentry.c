@@ -25,5 +25,8 @@ main()
   {
 	  return x + y;
   }
-  
+  float multi(float x, int y)
+  {
+    return x*y;
+  }
 }
