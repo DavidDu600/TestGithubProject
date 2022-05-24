@@ -1,1 +1,5 @@
-Adding a.c
+//Adding a.c
+main()
+{
+    printf("Hello Word!");
+}
