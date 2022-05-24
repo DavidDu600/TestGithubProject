@@ -19,12 +19,14 @@ main()
   }
   float sub(float x, float y)
   {
-      x = x * 1;
     return x - y;
   }
   int add(int x, int y)
   {
 	  return x + y;
   }
-  
+  float multi(float x, int y)
+  {
+    return x*y;
+  }
 }
