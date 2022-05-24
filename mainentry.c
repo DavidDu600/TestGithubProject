@@ -25,8 +25,15 @@ main()
   {
 	  return x + y;
   }
+
+  int multiply(int x, int y){
+      return x*y;
+  }
+  
+
   float multi(float x, int y)
   {
     return x*y;
   }
+
 }
